@@ -1,0 +1,4 @@
+Stack is used in browsers, when you visited a site it is pushed on top of previosly visted sites
+we pop up the most recent
+
+funntions:  push, pop, peek, length
