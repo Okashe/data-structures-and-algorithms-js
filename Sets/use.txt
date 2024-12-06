@@ -1,0 +1,2 @@
+Set is kind of array, no duplicates, values are not in partcular order
+
