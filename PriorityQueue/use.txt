@@ -1,0 +1,3 @@
+not only element is passed but also the priority
+If all priorities are the same number, it behaves like normal queue
+But if elements have different priorities, those with higher priority are sent to the beginning of the queue

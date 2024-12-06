@@ -1,0 +1,2 @@
+Queue is away to hold data. FIFO
+e.gwaiting in lin eat store,  printing documents9docs printed in the order they are sent)
